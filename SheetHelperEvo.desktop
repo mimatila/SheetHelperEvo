@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=SheetHelperEvo
+Comment=
+Exec=/usr/lib/jvm/jdk1.8.0_191/bin/java -jar /home/mimatila/Lataukset/bundles/SheetHelper/app/SheetHelperEvo.jar
+Path=/home/mimatila/Lataukset/
+Icon=/home/mimatila/Lataukset/bundles/SheetHelper/SheetHelper.ico
+Terminal=false
+Type=Application
+StartupNotify=true
+Name[en_US]=SheetHelperEvo
+Categories=Application;
