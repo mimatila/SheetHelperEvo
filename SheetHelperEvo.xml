@@ -3,7 +3,7 @@
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
   <jar>C:\Mika4Softwares\SheetHelperEvo\SheetHelperEvo.jar</jar>
-  <outfile>C:\Mika4Softwares\SheetHelperEvo\SheetHelperEvo.exe</outfile>
+  <outfile>SheetHelperEvo.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
