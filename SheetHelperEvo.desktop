@@ -2,9 +2,9 @@
 Version=1.0
 Name=SheetHelperEvo
 Comment=
-Exec=/usr/lib/jvm/jdk1.8.0_191/bin/java -jar /home/mimatila/Lataukset/bundles/SheetHelper/app/SheetHelperEvo.jar
-Path=/home/mimatila/Lataukset/
-Icon=/home/mimatila/Lataukset/bundles/SheetHelper/SheetHelper.ico
+Exec=/usr/lib/jvm/jdk1.8.0_191/bin/java -jar /home/mimatila/Desktop/SheetHelperEvo/SheetHelperEvo.jar
+Path=/home/mimatila/Desktop/SheetHelperEvo/
+Icon=/home/mimatila/Desktop/SheetHelperEvo/SheetHelper.ico
 Terminal=false
 Type=Application
 StartupNotify=true

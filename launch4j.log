@@ -976,3 +976,99 @@ Launcher:	C:\Program Files (x86)\Java\jre1.8.0_341\bin\javaw.exe
 Launcher args:	-jar "C:\Mika4Softwares\SheetHelperEvo\SheetHelperEvo.exe"
 Args length:	58/32768 chars
 Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Mika4Softwares\SheetHelperEvo\SheetHelperEvo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Mika4Softwares\SheetHelperEvo\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.000.000
+Java max ver:	1.008.000
+Substitute:	JAVA_HOME = C:\Program Files(x86)\Java\jre1.8.0_341\
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jre-11.0.13.8-hotspot\bin;C:\Program Files (x86)\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\nodejs\;C:\Users\OMISTAJA\AppData\Local\Microsoft\WindowsApps;;C:\Users\OMISTAJA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\OMISTAJA\AppData\Roaming\npm;C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin
+JRE paths:	C:\Program Files(x86)\Java\jre1.8.0_341\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jre-11.0.13.8-hotspot\bin;C:\Program Files (x86)\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\nodejs\;C:\Users\OMISTAJA\AppData\Local\Microsoft\WindowsApps;;C:\Users\OMISTAJA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\OMISTAJA\AppData\Roaming\npm;C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin
+Check launcher:	C:\Program Files(x86)\Java\jre1.8.0_341\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.008.000_312 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jre-11.0.13.8-hotspot\bin\javaw.exe (OK)
+Version string: 1.011.000_013 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files (x86)\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.008.000_312 / 32-Bit (Ignore)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Bitvise SSH Client\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Users\OMISTAJA\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\OMISTAJA\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\OMISTAJA\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.008.000_312 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 32-Bit (OK)
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_341\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_341\bin\javaw.exe
+Launcher args:	-jar "C:\Mika4Softwares\SheetHelperEvo\SheetHelperEvo.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Mika4Softwares\SheetHelperEvo\SheetHelperEvo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Mika4Softwares\SheetHelperEvo\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.000.000
+Java max ver:	1.008.000
+Substitute:	JAVA_HOME = C:\Program Files(x86)\Java\jre1.8.0_341\
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jre-11.0.13.8-hotspot\bin;C:\Program Files (x86)\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\nodejs\;C:\Users\OMISTAJA\AppData\Local\Microsoft\WindowsApps;;C:\Users\OMISTAJA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\OMISTAJA\AppData\Roaming\npm;C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin
+JRE paths:	C:\Program Files(x86)\Java\jre1.8.0_341\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jre-11.0.13.8-hotspot\bin;C:\Program Files (x86)\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\nodejs\;C:\Users\OMISTAJA\AppData\Local\Microsoft\WindowsApps;;C:\Users\OMISTAJA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\OMISTAJA\AppData\Roaming\npm;C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin
+Check launcher:	C:\Program Files(x86)\Java\jre1.8.0_341\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.008.000_312 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jre-11.0.13.8-hotspot\bin\javaw.exe (OK)
+Version string: 1.011.000_013 / 64-Bit (Ignore)
+Check launcher:	C:\Program Files (x86)\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.008.000_312 / 32-Bit (Ignore)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Bitvise SSH Client\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Users\OMISTAJA\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\OMISTAJA\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\OMISTAJA\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.008.000_312 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 32-Bit (OK)
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_341\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_341\bin\javaw.exe
+Launcher args:	-jar "C:\Mika4Softwares\SheetHelperEvo\SheetHelperEvo.exe"
+Args length:	58/32768 chars
+Exit code:	0
